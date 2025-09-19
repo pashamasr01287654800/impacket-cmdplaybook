@@ -77,16 +77,6 @@ Press Enter to return to menu
 
 This repository and the script are intended for defensive research, training, and lab use only. Do not use the referenced tools against systems you do not own or have explicit authorization to test. The author and repository make no guarantees and assume no liability for misuse.
 
-## Contributing
-
-* Keep entries concise: one-line description and a short example.
-* Maintain English for code and examples.
-* Submit PRs for new tools or corrections.
-
-## License
-
-MIT License recommended. Add a `LICENSE` file if you want to publish.
-
 ---
 
 *This README documents the provided **`impacket-cmdplaybook.sh`** script logic and usage. Examples in the script are lab-only templates and must be adapted to your environment.*
