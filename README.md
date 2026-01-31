@@ -33,7 +33,7 @@ chmod +x impacket-cmdplaybook.sh
 3. (Optional) Move to a directory in your `PATH`:
 
 ```bash
-sudo mv impacket-cmdplaybook.sh /usr/local/bin/
+sudo mv impacket-cmdplaybook.sh /usr/local/bin/impacket-cmdplaybook
 ```
 
 ## Usage
@@ -48,30 +48,6 @@ You will see a numbered list of tools. Type the tool number and press Enter to v
 
 If you press Enter without typing a number the menu will re-display and prompt again.
 
-## Example session
-
-```
-$ ./impacket-cmdplaybook.sh
-
-Impacket quick reference (lab only)
-
- 1) impacket-DumpNTLMInfo
- 2) impacket-Get-GPPPassword
- 3) impacket-GetADComputers
- ...
-55) impacket-wmipersist
-56) impacket-wmiquery
-
-0) Exit
-
-Select number (1-56, 0 to exit): 5
-
-Tool: impacket-GetLAPSPassword
-Example: impacket-GetLAPSPassword -dc-ip 192.168.1.5 -cred 'EXAMPLE\\user:Pass'
-Description: Retrieve LAPS stored passwords if accessible.
-
-Press Enter to return to menu
-```
 
 ## Safety and Legal
 
