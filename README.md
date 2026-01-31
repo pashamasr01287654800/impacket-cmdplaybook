@@ -11,7 +11,7 @@
 ## Features
 
 * Colorized interactive menu (ANSI/tput compatible).
-* 56 referenced Impacket tools with example usage and short descriptions.
+* 50 referenced Impacket tools with example usage and short descriptions.
 * Input validation: forces numeric input and handles empty input.
 * Simple, single-file Bash implementation.
 
