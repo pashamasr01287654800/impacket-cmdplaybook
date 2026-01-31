@@ -44,7 +44,7 @@ Run the script from a terminal:
 ./impacket-cmdplaybook.sh
 ```
 
-You will see a numbered list of tools. Type the tool number and press Enter to view the example and description. Valid choices are `1` to `56`. Enter `0` to exit.
+You will see a numbered list of tools. Type the tool number and press Enter to view the example and description. Valid choices are `1` to `50`. Enter `0` to exit.
 
 If you press Enter without typing a number the menu will re-display and prompt again.
 
